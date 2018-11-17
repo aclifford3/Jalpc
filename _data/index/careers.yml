@@ -4,8 +4,7 @@
     detail: Georgia Insitute of Technology
     i18n: gtech_bach
   desc:
-    detail: |
-            Graduated from Georgia Institute of Technology with a degree in biomedical engineering and a minor
+    detail: Graduated from Georgia Institute of Technology with a degree in biomedical engineering and a minor
             in computer science.
     i18n: gtech_bach_desc
   date:
@@ -20,8 +19,7 @@
     detail: Experient Group
     i18n: experient_group_jr
   desc:
-    detail: |
-            Built backend software applications for customer loyalty program with Java Spring Boot and Amazon Web Services.
+    detail: Built backend software applications for customer loyalty program with Java Spring Boot and Amazon Web Services.
             Managed client's AWS cloud account.
     i18n: experient_group_jr_desc
   date:
