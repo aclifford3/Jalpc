@@ -31,16 +31,16 @@
   icon: fa-plus-square
 
 - name:
-  detail: Experient Group
-  i18n: experient_group_sr
-desc:
-  detail: Identified need for increased deployment velocity and stability and created CI/CD pipeline to address that need.
-  Worked with team to engineer next generation platform for running applications in Docker form on the Kubernetes platform.
-  i18n: experient_group_sr_desc
-date:
-  detail: Sep. 2018
-  i18n: experient_group_sr_desc
-job:
-  detail: Senior Software Developer
-  i18n: experient_group_sr_job
-icon: fa-plus-square
+    detail: Experient Group
+    i18n: experient_group_sr
+  desc:
+    detail: Identified need for increased deployment velocity and stability and created CI/CD pipeline to address that need.
+            Worked with team to engineer next generation platform for running applications in Docker form on the Kubernetes platform.
+    i18n: experient_group_sr_desc
+  date:
+    detail: Sep. 2018
+    i18n: experient_group_sr_desc
+  job:
+    detail: Senior Software Developer
+    i18n: experient_group_sr_job
+  icon: fa-plus-square
