@@ -1,29 +1,46 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Georgia Insitute of Technology
+    i18n: gtech_bach
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Graduated from Georgia Institute of Technology with a degree in biomedical engineering and a minor
+    in computer science.
+    i18n: gtech_bach_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: May 2015
+    i18n: gtech_bach_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Bachelor's Student
+    i18n: gtech_bach_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Experient Group
+    i18n: experient_group_jr
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Built backend software applications for customer loyalty program with Java Spring Boot and Amazon Web Services.
+    Managed client's AWS cloud account.
+    i18n: experient_group_jr_desc
   date:
     detail: Jun. 2015
-    i18n: company_b_date
+    i18n: experient_group_jr_desc
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Software Developer
+    i18n: experient_group_jr_job
   icon: fa-plus-square
+
+- name:
+  detail: Experient Group
+  i18n: experient_group_sr
+desc:
+  detail: Identified need for increased deployment velocity and stability and created CI/CD pipeline to address that need.
+  Worked with team to engineer next generation platform for running applications in Docker form on the Kubernetes platform.
+  i18n: experient_group_sr_desc
+date:
+  detail: Sep. 2018
+  i18n: experient_group_sr_desc
+job:
+  detail: Senior Software Developer
+  i18n: experient_group_sr_job
+icon: fa-plus-square
