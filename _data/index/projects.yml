@@ -6,8 +6,7 @@
   gh_user: aclifford3
   repo: hop-web
   img: /static/assets/img/landing/hop-web.png
-  desc: Front-end Angular.js application component for Hop, a web application used to consolidate vacation rentals into
-  a centralized location.
+  desc: Front-end Angular.js application component for Hop, a web application used to consolidate vacation rentals into a centralized location.
 
 #- name: Python
 #  i18n: cpython
